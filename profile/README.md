@@ -67,7 +67,7 @@ Python • Data Science • ML • Software Engineering • Cloud
 ## 🧑‍💻 Founder
 
 **Franklyn Osamudiamen Oliha**  
-SC-Cleared Machine Learning Engineer  
+Data Scientist | Machine Learning Engineer | Software Engineer |
 Founder of **MudiaTech** & **Mudia Estate Ltd**
 
 🌐 Portfolio: https://mudiatech.co.uk  
